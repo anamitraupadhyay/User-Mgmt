@@ -1,0 +1,17 @@
+/* Custom styles */
+.container {
+    max-width: 800px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.form-control:focus {
+    border-color: #0d6efd;
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+.btn-primary {
+    padding: 8px 20px;
+}
